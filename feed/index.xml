@@ -9,8 +9,8 @@
 
 <channel>
 	<title>GLXcoin</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>GLX coin</description>
 	<lastBuildDate>Sun, 06 Jun 2021 08:01:42 +0000</lastBuildDate>
 	<language>zh-CN</language>
